@@ -1,0 +1,59 @@
+* { margin: 0px; padding: 0px; }
+header { overflow: hidden; width: 90%; margin: 70px auto 110px; }
+.logo { width: 20%; float: left; }
+.logo img { }
+.menu { overflow: hidden; width: 70%; float: right; }
+.menu ul { list-style: none; float: right; }
+.menu ul li { float: left; margin-left: 160px; }
+.menu ul li a { color: rgb(98, 98, 98); text-decoration: none; text-transform: uppercase; font-family: "Playfair Display", serif; font-size: 16px; font-weight: 500; }
+.banner { width: 90%; margin: auto; }
+.banner img { width: 100%; }
+.photodiary { width: 78%; margin: 70px 0px 100px 215px; }
+.photodiary h5 { color: rgb(180, 173, 158); text-transform: uppercase; margin-bottom: 20px; font-family: Ubuntu, sans-serif; font-size: 15px; font-weight: 400; }
+.photodiary h1 { color: rgb(98, 98, 98); font-size: 33px; margin-bottom: 24px; font-family: "Playfair Display", serif; font-weight: 500; }
+.photodiary p { color: rgb(98, 98, 98); font-size: 15px; margin-bottom: 45px; font-family: "Playfair Display", serif; font-weight: 500; }
+.photodiary a { color: rgb(180, 173, 158); text-transform: uppercase; font-size: 15px; text-decoration: none; font-family: Ubuntu, sans-serif; font-weight: 400; }
+.lifestyle { width: 80%; margin: auto; }
+.lifestyle_1 { width: 47%; }
+.lifestyle_1 img { width: 100%; }
+.lifestyle_1 a { color: rgb(180, 173, 158); text-transform: uppercase; font-family: Ubuntu, sans-serif; font-size: 15px; font-weight: 400; text-decoration: none; display: block; margin: 20px 0px; }
+.lifestyle_1 h1 { color: rgb(98, 98, 98); font-size: 33px; font-family: "Playfair Display", serif; font-weight: 500; }
+.lifestyle_1 p { color: rgb(98, 98, 98); font-size: 15px; margin-bottom: 45px; font-family: "Playfair Display", serif; font-weight: 500; }
+* { margin: 0px; padding: 0px; }
+header { overflow: hidden; width: 90%; margin: 70px auto 110px; }
+.logo { width: 20%; float: left; }
+.logo img { }
+.menu { overflow: hidden; width: 70%; float: right; }
+.menu ul { list-style: none; float: right; }
+.menu ul li { float: left; margin-left: 160px; }
+.menu ul li a { color: rgb(98, 98, 98); text-decoration: none; text-transform: uppercase; font-family: "Playfair Display", serif; font-size: 16px; font-weight: 500; }
+.banner { width: 90%; margin: auto; }
+.banner img { width: 100%; }
+.photodiary { width: 78%; margin: 70px 0px 100px 215px; }
+.photodiary h5 { color: rgb(180, 173, 158); text-transform: uppercase; margin-bottom: 20px; font-family: Ubuntu, sans-serif; font-size: 15px; font-weight: 400; }
+.photodiary h1 { color: rgb(98, 98, 98); font-size: 33px; margin-bottom: 24px; font-family: "Playfair Display", serif; font-weight: 500; }
+.photodiary p { color: rgb(98, 98, 98); font-size: 15px; margin-bottom: 45px; font-family: "Playfair Display", serif; font-weight: 500; }
+.photodiary a { color: rgb(180, 173, 158); text-transform: uppercase; font-size: 15px; text-decoration: none; font-family: Ubuntu, sans-serif; font-weight: 400; }
+.lifestyle { overflow: hidden; width: 80%; margin: auto; display: flex; justify-content: space-between; flex-wrap: wrap; }
+.lifestyle_1 { overflow: hidden; width: 47%; margin-bottom: 100px; }
+.lifestyle_1 img { width: 100%; }
+.lifestyle_1 a { color: rgb(180, 173, 158); margin: 35px 0px 20px; text-transform: uppercase; font-family: Ubuntu, sans-serif; font-size: 15px; font-weight: 400; text-decoration: none; display: block; }
+.lifestyle_1 h1 { color: rgb(98, 98, 98); font-size: 36px; margin: 20px 0px 30px; font-family: "Playfair Display", serif; font-weight: 500; text-transform: capitalize; }
+.lifestyle_1 p { color: rgb(98, 98, 98); font-size: 18px; margin-bottom: 45px; font-weight: 500; font-family: "Playfair Display", serif; }
+.signup { background: rgb(240, 240, 240); height: 300px; display: flex; justify-content: center; align-items: center; margin-bottom: 100px; }
+.signup_content { width: 398px; }
+.signup_content h1 { color: rgb(98, 98, 98); font-size: 33px; font-family: "Playfair Display", serif; font-weight: 500; margin-bottom: 55px; }
+.signup_content input { border-top: none; border-right: none; border-left: none; border-image: initial; background: none; border-bottom: 1px solid; width: 100%; padding: 5px 0px 10px 5px; font-size: 15px; }
+.signup_content input:focus { outline: none; }
+.button {margin-bottom: 100px;height: 290px;display: flex;justify-content: center;align-items: center;}
+.button button {background-color: transparent;padding: 20px 30px;border: 1px solid rgb(0, 0, 0);font-size: 20px;font-family: 'Playfair Display';color: #626262;}
+footer { background: rgb(240, 240, 240); padding: 30px 0px; }
+.footer_wrapper { width: 80%; margin: auto; display: flex; justify-content: space-between; }
+.terms { width: 30%; }
+.terms ul { list-style: none; display: flex; }
+.terms ul li { }
+.terms ul li a { color: rgb(100, 100, 100); text-decoration: none; margin: 15px; }
+.socials { width: 30%; }
+.socials ul { display: flex; justify-content: end; list-style: none; }
+.socials ul li { }
+.socials ul li a { color: rgb(100, 100, 100); text-decoration: none; margin: 14px; }
